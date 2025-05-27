@@ -9,27 +9,32 @@ let favPet;
 
 let favMovie = null
 
-console.log(name, typeof name);
-console.log(age, typeof age);
-console.log(isStudent, typeof isStudent);
-console.log(address, typeof address);
-console.log(hobbies, typeof hobbies);
-console.log(favPet, typeof favPet);
-console.log(favMovie, typeof favMovie);
+//console.log(name, typeof name);
+//console.log(age, typeof age);
+//console.log(isStudent, typeof isStudent);
+//console.log(address, typeof address);
+//console.log(hobbies, typeof hobbies);
+//console.log(favPet, typeof favPet);
+//console.log(favMovie, typeof favMovie);
 
 //prompt for name and age:
 
-let userName = prompt("What is your name?");
-let userAge = prompt("What is your age?");
+//let userName = prompt("What is your name?");
+//let userAge = prompt("What is your age?");
 
-userAge = Number(userAge);
+//userAge = Number(userAge);
 
 //calculate year of birth
 
-let currentYear = new Date().getFullYear();
+//let currentYear = new Date().getFullYear();
 
-let yearOfBirth = currentYear - userAge;
-console.log(yearOfBirth)
+//let yearOfBirth = currentYear - userAge;
+//console.log(yearOfBirth)
 
 //alert(`Hello, your name is ${userName} and you are ${userAge}, that means you were born in ${yearOfBirth}`);
-alert('Hello, your name is ' + userName + ' and you are ' + userAge + ', that means you were born in ' + yearOfBirth);
+//alert('Hello, your name is ' + userName + ' and you are ' + userAge + ', that means you were born in ' + yearOfBirth);
+
+let score = 10
+console.log(score, typeof score);
+score = String(score);
+console.log(score, typeof score);
