@@ -1,13 +1,13 @@
-let name = 'Benjamin Barimah-Sarpong';
-let age = 26;
-let isStudent = true;
-let address = {city: 'Accra', 
-    country: 'Ghana'};
-let hobbies = ['playing games ', 'learning', ' talking to friends'];
+//let name = 'Benjamin Barimah-Sarpong';
+//let age = 26;
+//let isStudent = true;
+//let address = {city: 'Accra', 
+  //  country: 'Ghana'};
+//let hobbies = ['playing games ', 'learning', ' talking to friends'];
 
-let favPet;
+//let favPet;
 
-let favMovie = null
+//let favMovie = null
 
 //console.log(name, typeof name);
 //console.log(age, typeof age);
@@ -28,13 +28,11 @@ let favMovie = null
 
 //let currentYear = new Date().getFullYear();
 
-//let yearOfBirth = currentYear - userAge;
-//console.log(yearOfBirth)
+/*sole.log(yearOfBirth)
+alert(`Hello, your name is ${userName} and you are ${userAge}, that means you were born in ${yearOfBirth}`);
+alert('Hello, your name is ' + userName + ' and you are ' + userAge + ', that means you were born in ' + yearOfBirth);*/
 
-//alert(`Hello, your name is ${userName} and you are ${userAge}, that means you were born in ${yearOfBirth}`);
-//alert('Hello, your name is ' + userName + ' and you are ' + userAge + ', that means you were born in ' + yearOfBirth);
-
-let score = 10
+/*let score = 10
 console.log(score, typeof score);
 score = String(score);
-console.log(score, typeof score);
+console.log(score, typeof score);*/
